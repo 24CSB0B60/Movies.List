@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    padding-top: 200px;
+}
+
+.container h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    color: rgb(179, 55, 55);
+}
+
+.input-section {
+    border-radius: 30px;
+}
+
+#movieInput {
+    border-radius: 25px;
+    border: 2px solid orangered;
+    padding: 15px;
+}
+
+#addMovieBtn {
+    border-radius: 20px;
+    padding: 10px;
+    font-family: monospace;
+}
+
+#addMovieBtn:hover {
+    background-color: blueviolet;
+}
+
+.footer {
+    font-size: medium;
+}
+
+#clearListBtn {
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 27px;
+    padding: 12px;
+}
+
+#clearListBtn:hover {
+    background-color: aquamarine;
+}
